@@ -3,7 +3,7 @@ A collection of example notebooks using [Titan Takeoff Inference Server]([https:
 
 You can use these examples as guidelines on how to make use of different model providers, vector databases, retrieval techniques and more powered by the Takeoff inference server. Most of them showcase a specific, small demo.
 
-To learn more about _how_ to use the Takeoff Inference Server, please visit our [documentation]([https://docs.haystack.deepset.ai/docs](https://docs.titanml.co/docs/intro)).
+To learn more about _how_ to use the Takeoff Inference Server, please visit our [documentation](https://docs.titanml.co/docs/).
 
 For more examples, you may also find our [blog](https://docs.titanml.co/blog) useful.
 
