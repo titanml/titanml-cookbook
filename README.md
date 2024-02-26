@@ -12,7 +12,7 @@ For additional examples, check out the [TitanML blog](https://docs.titanml.co/bl
 
 | Name | Google Colab Link| 
 |-|-|
-| Text Classification with Takeoff | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/titan/takeoff-cookbook/blob/main/text_classification_with_takeoff.ipynb) |
+| Daily digest from news websites with Deepset Haystack and Titan Takeoff | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10EralM_8pCJ5nXnGIZYr6atqefmi8r2z?usp=sharing) |
 
 ## How to Contribute 
 
@@ -27,3 +27,4 @@ To add an example notebook to this repo:
 You can also contribute directly from Colab using "Save a copy to GitHub" to save your notebook to your forked repo and create a PR.
 
 Thanks for your contributions! 🎉
+
