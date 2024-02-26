@@ -1,19 +1,29 @@
 # 👩🏻‍🍳 TitanML Cookbook
-A collection of example notebooks using [Titan Takeoff Inference Server]([https://github.com/deepset-ai/haystack](https://www.titanml.co/takeoff-product)) 👇
 
-You can use these examples as guidelines on how to make use of different model providers, vector databases, retrieval techniques and more powered by the Takeoff inference server. Most of them showcase a specific, small demo.
+A collection of example notebooks using [Titan Takeoff Inference Server](https://www.titanml.co/takeoff-product) 👇
 
-To learn more about _how_ to use the Takeoff Inference Server, please visit our [documentation](https://docs.titanml.co/docs/).
+You can use these examples as guidelines on how to leverage different model providers, vector databases, retrieval techniques and more powered by the Takeoff inference server. Most notebooks showcase a specific, small demo.
 
-For more examples, you may also find our [blog](https://docs.titanml.co/blog) useful.
+To learn more about _how_ to use the Takeoff Inference Server, please visit the [documentation](https://docs.titanml.co/docs/).
 
-| Name | Colab|
-| ---- | ---- |
+For additional examples, check out the [TitanML blog](https://docs.titanml.co/blog).
 
-## How to Contribute to this repository
+## Example Notebooks
 
-If you have an example that uses TitanML's products, you can add it to this repository by creating a PR. You can also create a PR from Colab by creating a Fork of this repository and selecting "Save a Copy to GitHub". Once you add your example to your fork, you can create a PR onto this repository. 
+| Name | Google Colab Link| 
+|-|-|
+| Text Classification with Takeoff | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/titan/takeoff-cookbook/blob/main/text_classification_with_takeoff.ipynb) |
 
-1. Add your Notebook
-2. Give a descriptive name to your file that includes the names of (if applicable) the model providers, databases the technologies you use in your example and/or the task you are completing in the example.
-3. Make sure to add a row in the table above 🎉
+## How to Contribute 
+
+To add an example notebook to this repo:
+
+1. Fork this repository
+2. Add your notebook 
+3. Give your file a descriptive name including the model(s), database(s), and task
+4. Add a row for your notebook in the table above
+5. Create a pull request to merge your changes into this repository
+
+You can also contribute directly from Colab using "Save a copy to GitHub" to save your notebook to your forked repo and create a PR.
+
+Thanks for your contributions! 🎉
