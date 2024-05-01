@@ -1,6 +1,6 @@
 # 👩🏻‍🍳 TitanML Cookbook
 
-A collection of example notebooks using [Titan Takeoff Inference Server](https://www.titanml.co/takeoff-product) 👇
+A collection of example notebooks using [Titan Takeoff Inference Stack](https://www.titanml.co/takeoff-product) 👇
 
 You can use these examples as guidelines on how to leverage different model providers, vector databases, retrieval techniques and more powered by the Takeoff inference server. Most notebooks showcase a specific, small demo.
 
